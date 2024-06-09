@@ -9,7 +9,7 @@ const sinsub = require('../lib/sinsub');
 const  bot = config.BOTNUMBER;
 
 cmd({
-    pattern: "tharuwa",
+    pattern: "tha",
     react: "🌟",
     alias: ["tharu"],
     desc: "Check bot online or no.",
