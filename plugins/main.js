@@ -14,7 +14,7 @@ cmd({
     alias: ["tharu"],
     desc: "Check bot online or no.",
     category: "genaral",
-    use: '.alive',
+    use: '.pky',
     filename: __filename
 },
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants,  isItzcp, groupAdmins, isBotAdmins, isAdmins, reply,react}) => {
